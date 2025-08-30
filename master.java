@@ -2,9 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 // Code for lift operation
 
-/**
- * main
- */
+
 public class master {
     public static void main(String[] args) {
         
